@@ -1,0 +1,9 @@
+Flask
+scapy
+PyQt5
+PyQtWebEngine
+requests
+netifaces
+pandas
+matplotlib
+
